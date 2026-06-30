@@ -1,0 +1,6 @@
+name: env_gem
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - gemtools

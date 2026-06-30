@@ -1,0 +1,25 @@
+Sample	Build	Tool	Overlap_BP
+Sample_9	mm39	CNVnator	0
+Sample_9	mm39	CNVkit	0
+Sample_9	mm39	FREEC	0
+Sample_9	t2t	CNVnator	0
+Sample_9	t2t	CNVkit	
+Sample_9	t2t	FREEC	0
+Sample_17	mm39	CNVnator	0
+Sample_17	mm39	CNVkit	0
+Sample_17	mm39	FREEC	0
+Sample_17	t2t	CNVnator	0
+Sample_17	t2t	CNVkit	
+Sample_17	t2t	FREEC	0
+Sample_164	mm39	CNVnator	0
+Sample_164	mm39	CNVkit	0
+Sample_164	mm39	FREEC	0
+Sample_164	t2t	CNVnator	0
+Sample_164	t2t	CNVkit	
+Sample_164	t2t	FREEC	0
+Sample_181	mm39	CNVnator	0
+Sample_181	mm39	CNVkit	0
+Sample_181	mm39	FREEC	0
+Sample_181	t2t	CNVnator	0
+Sample_181	t2t	CNVkit	
+Sample_181	t2t	FREEC	0
