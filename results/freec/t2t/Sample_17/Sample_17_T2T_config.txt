@@ -1,0 +1,13 @@
+[general]
+chrLenFile=/users1/cpca070092024/fmarinha/projeto_estagio/data/references/t2t/chrLen_t2t.txt
+ploidy=2
+maxThreads=8
+window=250
+chrFiles=/users1/cpca070092024/fmarinha/projeto_estagio/data/references/t2t/clean_chroms
+outputDir=/users1/cpca070092024/fmarinha/projeto_estagio/results/freec/t2t/Sample_17
+sex=XY
+
+[sample]
+mateFile=/users1/cpca070092024/fmarinha/projeto_estagio/data/mapped/t2t/Sample_17_T2T_markdup.bam
+inputFormat=BAM
+mateOrientation=0

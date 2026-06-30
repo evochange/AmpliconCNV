@@ -1,0 +1,13 @@
+[general]
+chrLenFile=/users1/cpca070092024/fmarinha/projeto_estagio/data/references/mm39/chrLen_mm39.txt
+ploidy=2
+maxThreads=8
+window=250
+chrFiles=/users1/cpca070092024/fmarinha/projeto_estagio/data/references/mm39/chroms_links
+outputDir=/users1/cpca070092024/fmarinha/projeto_estagio/results/freec/mm39/Sample_17
+sex=XX
+
+[sample]
+mateFile=/users1/cpca070092024/fmarinha/projeto_estagio/data/mapped/mm39/Sample_17_mm39_markdup.bam
+inputFormat=BAM
+mateOrientation=0
